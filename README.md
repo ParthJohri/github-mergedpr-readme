@@ -69,3 +69,6 @@ Thank you for your interest in contributing to this project! Here are some guide
 
 1. Go to the repository on GitHub and create a pull request.
 2. Describe your changes and what they do.
+
+## Acknowledgements
+<i>Inspired by [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</i>
