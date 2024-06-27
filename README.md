@@ -1,5 +1,7 @@
 # Merge PRs GitHub Action
 
+#### You can watch it in action on my [GitHub Profile](https://github.com/ParthJohri/ParthJohri)
+
 <!--Start Count Merged PRs-->
   <span><img src="https://img.shields.io/badge/Total_Merged_PRs-33-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
@@ -17,12 +19,12 @@
 ### How to Use? 
 
 1. Go to your Profile `README` Repository and create the `.github/workflows/action.yml` file with the provided configuration.
-2. Add main.py in your Profile `README` Repository, and replace your username with ```ParthJohri```
+2. Add main.py on your Profile `README` Repository, and replace your username with ```ParthJohri```
 
    ```
    url = "https://api.github.com/search/issues?q=is:pr+author:ParthJohri+is:merged"
    ```
-   
+3. Add requirements.txt on your Profile `README` Repository.
 4. Ensure your Profile `README.md` contains the below comments, to show your merged PRs in your Profile ReadME:
 ```
    <!--Start Count Merged PRs-->
@@ -33,7 +35,7 @@
    
    <!--Finish Merged PRs-->
 ```
-4. By default the corn jobs runs every 6 hours or you can also manually start it. You can also make use of [Cron Tab](https://crontab.guru/) to change the cron job time as per your requirement.
+5. By default the corn jobs runs every 6 hours or you can also manually start it. You can also make use of [Cron Tab](https://crontab.guru/) to change the cron job time as per your requirement.
 
 
 ## Contributing to This Project
