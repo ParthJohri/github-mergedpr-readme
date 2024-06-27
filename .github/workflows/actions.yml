@@ -3,6 +3,9 @@ name: run main.py
 on:
   schedule:
     - cron: '0 */6 * * *' # Every 6 hours
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
 
 jobs:
   build:
