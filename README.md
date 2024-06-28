@@ -27,11 +27,11 @@
 3. Add requirements.txt on your Profile `README` Repository.
 4. Ensure your Profile `README.md` contains the below comments, to show your merged PRs in your Profile ReadME:
 ```
-   <!--Start Count Merged PRs-->
+<!--Start Count Merged PRs-->
   <span><img src="https://img.shields.io/badge/Total_Merged_PRs-34-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
    
-   <!--Start Merged PRs-->
+<!--Start Merged PRs-->
 1. 🥳 Merged PR [379](https://github.com/pymc-labs/CausalPy/pull/379) - [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
 2. 🎉 Merged PR [11](https://github.com/monacodelisa/LGBTQ-definitions/pull/11) - [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
 3. 🎊 Merged PR [876](https://github.com/glasskube/glasskube/pull/876) - [glasskube/glasskube](https://github.com/glasskube/glasskube)
@@ -39,7 +39,7 @@
 5. 🙌🏼 Merged PR [5](https://github.com/monacodelisa/LGBTQ-definitions/pull/5) - [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
 <!--Finish Merged PRs-->
 ```
-5. By default the corn jobs runs every 6 hours or you can also manually start it. You can also make use of [Cron Tab](https://crontab.guru/) to change the cron job time as per your requirement.
+5. By default the cron jobs runs every 6 hours or you can also manually start it. You can also make use of [Cron Tab](https://crontab.guru/) to change the cron job time as per your requirement.
 
 
 ## Contributing to This Project
